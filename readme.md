@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Patient Complexity Index  - Solution for calculating a patients complexity based upon their diagnostic profile.
 Solution for calculating a patients complexity based upon their diagnostic profile.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Patient Complexity Index ** - an example for your proj
 Solution for calculating a patients complexity based upon their diagnostic profile.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
